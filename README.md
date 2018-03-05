@@ -142,7 +142,6 @@
 - https://github.com/Coxious/Antinvader
 - https://github.com/tandasat/Scavenger
 - https://github.com/fishfly/X70FSD
-- https://github.com/aleksk/LazyCopy
 - https://github.com/ExpLife/BKAV.Filter
 
 ## virtual disk
