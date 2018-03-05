@@ -8,7 +8,7 @@
 
 # `awesome-windows-kernel-security-development`
 
-:heart::
+:heart:
 
 ## windows kernel driver with c++ runtime
 
