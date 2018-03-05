@@ -1,5 +1,7 @@
 # awesome-windows-kernel-security-development
 
+:heart::yum::stuck_out_tongue_winking_eye::blush::smile::grinning::kissing_heart::relaxed::laughing::smiley::sparkling_heart:
+
 ## windows kernel driver with c++ runtime
 
 - :kissing_heart: https://github.com/ExpLife/DriverSTL
