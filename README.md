@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # `awesome-windows-kernel-security-development`
 
