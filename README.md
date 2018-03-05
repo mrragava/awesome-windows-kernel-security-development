@@ -2,7 +2,7 @@
 ----------------------------------------------------
 <i class="icon-file"></i> **windows-kernel-driver-with-c++-runtime**
 
-:+2: https://github.com/ExpLife/DriverSTL
+:kissing_heart: https://github.com/ExpLife/DriverSTL
 - https://github.com/sysprogs/BazisLib
 - https://github.com/AmrThabet/winSRDF
 - https://github.com/sidyhe/dxx
