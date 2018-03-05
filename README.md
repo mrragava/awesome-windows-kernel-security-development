@@ -553,6 +553,11 @@
 - https://github.com/F7eak/Xenon
 - https://github.com/syj2010syj/All-Star-Battle-2
 
+## software reverse
+
+- https://github.com/stonedreamforest/re_avkmgr 
+- https://github.com/stonedreamforest/re_sysdiag
+
 ## symbolic execution
 
 - https://github.com/illera88/Ponce
