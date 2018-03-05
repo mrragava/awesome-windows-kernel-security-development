@@ -1,3 +1,12 @@
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/ExpLife/awesome-windows-kernel-security-development/master/logo.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
+
+<br>
+<br>
+
 # `awesome-windows-kernel-security-development`
 
 :heart::yum::stuck_out_tongue_winking_eye::blush::smile::grinning::kissing_heart::relaxed::laughing::smiley::sparkling_heart:
